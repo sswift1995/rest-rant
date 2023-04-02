@@ -1,18 +1,5 @@
-
-body {
-    background-color: lightblue;
-    text-align: center;
-  }
-  
-  main {
-    margin-right: 20px;
-    margin-left: 20px;
-    background-color: white;
-  }
-  
-
 nav {
-    background-color: cornflowerblue;
+    background-color: steelblue;
     padding: 10px;
 }
 
@@ -32,6 +19,34 @@ nav a {
 }
 
 nav a:hover {
-    color: pink;
+    color: sandybrown;
     text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    margin: 0 auto;
+}
+
+.img-max {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+body {
+    background-color: #777;
+    text-align: center;
+}
+
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+}
+
+.bigger-font {
+    font-size: 24px;
 }
